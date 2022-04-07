@@ -1,0 +1,7 @@
+create repository on github.
+share repository with james.
+clone the repository on local.
+try to edit something on local.
+add to stage.
+commit.
+push.
